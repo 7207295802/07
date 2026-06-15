@@ -1,0 +1,22 @@
+Java Interview Points (Freshers)
+1. What is Java?
+
+Java is a high-level, object-oriented, platform-independent programming language developed by Oracle Corporation.
+
+2. Why is Java Platform Independent?
+
+Java source code is compiled into bytecode, which runs on the Java Virtual Machine (JVM). Therefore, the same program can run on different operating systems.
+
+3. Difference Between JDK, JRE, and JVM
+Term	Meaning
+JVM	Executes Java bytecode
+JRE	JVM + Libraries required to run Java programs
+JDK	JRE + Development tools (compiler, debugger)
+4. What are the Features of Java?
+Object-Oriented
+Platform Independent
+Secure
+Robust
+Multithreaded
+Portable
+Distributed
