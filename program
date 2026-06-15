@@ -1,0 +1,13 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+variables
+
+int speed = 60;
+double price = 4.99;
+char grade = 'A';
+boolean isJavaFun = true;
+String message = "Welcome!";
