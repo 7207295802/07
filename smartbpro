@@ -1,0 +1,23 @@
+#project
+ShopEZ - Stock Trading Platform (MERN)
+Overview: A comprehensive online shopping/stock trading platform built with MongoDB, Express.js, React.js, and Node.js that enables users to explore stocks, execute trades, manage portfolios in real-time, with admin moderation capabilities.
+
+Core Features:
+User Authentication - JWT-based secure login and registration with role-based access (USER/ADMIN)
+Stock Marketplace - Browse, search, and view detailed stock information with real-time price updates
+Trading System - Buy/sell stocks with virtual balance simulation and transaction history
+Portfolio Management - Track holdings, profit/loss, and investment performance
+Admin Dashboard - Manage stocks, approve trades, monitor user activity
+Real-time Visualization - Price charts and market trends using Chart.js/Recharts
+Technology Stack:
+Backend: Node.js, Express, MongoDB, JWT, bcryptjs
+Frontend: React.js, Bootstrap/Material-UI, Axios, Chart.js
+Security: JWT authentication, bcrypt password encryption, CORS, role-based route protection
+Development Roadmap:
+Environment setup and dependencies
+MongoDB schema design (Users, Stocks, Transactions, Portfolio)
+Full-stack development with CRUD operations
+Security implementation and session management
+Responsive UI with data visualization
+Testing and validation
+Optimization and monitoring
